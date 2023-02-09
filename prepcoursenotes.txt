@@ -3,5 +3,6 @@ Unable to  npm install -g javascripting as instructed in:: https://web.compass.l
 
 git cli with github authentication issues on git push origin
 -trying with personal tokens authentication
-
+-successful
+- checking if github token is still needed
 
