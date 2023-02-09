@@ -4,3 +4,7 @@ Headquarters
 
 Mars
 
+Earth
+
+Venus
+
