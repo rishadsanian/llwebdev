@@ -1,0 +1,4 @@
+Unable to  npm install -g javascripting as instructed in:: https://web.compass.lighthouselabs.ca/workbooks/web-ft-prep/activities/18?workbook=68
+
+git cli with github authentication issues on git push origin
+
